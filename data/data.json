@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "title": "Product 1",
+      "details": "Aliquip excepteur consequat elit elit velit fugiat ex sint. Laboris sint proident excepteur duis qui occaecat enim quis ex irure amet. Tempor voluptate incididunt elit proident sit sunt do dolor occaecat aliquip non exercitation occaecat."
+    },
+    {
+      "id": "p2",
+      "title": "Product 2",
+      "details": "Excepteur voluptate veniam aliquip magna fugiat amet quis ut sunt enim. Culpa id excepteur amet exercitation esse et exercitation aliquip fugiat irure voluptate. Id ea ut do adipisicing est ea consectetur quis eu. Proident culpa consequat dolor ex laboris. Velit irure elit aute ad officia non voluptate dolor cupidatat veniam voluptate quis. Commodo labore dolor qui exercitation dolore nostrud laboris sunt. Tempor ad incididunt et velit exercitation fugiat."
+    },
+    {
+      "id": "p3",
+      "title": "Product 3",
+      "details": "Dolor officia ullamco ut esse exercitation culpa aliqua. Labore nulla proident proident commodo ea dolor esse commodo. Reprehenderit ea sint excepteur aliquip nostrud. Culpa do qui nulla velit dolor sint."
+    },
+    {
+      "id": "p4",
+      "title": "Product 4",
+      "details": "Minim deserunt irure consequat exercitation veniam ut do aliquip ea culpa nisi nulla ex. Enim labore aute tempor dolor pariatur nulla amet laboris nostrud elit. Tempor commodo nostrud dolor sit voluptate eu sit cillum ipsum ullamco magna non sint Lorem. Exercitation aliquip elit adipisicing cupidatat duis in voluptate."
+    }
+  ]
+}
